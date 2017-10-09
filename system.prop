@@ -1,0 +1,4 @@
+# system.prop for potter
+
+# Display
+ro.sf.lcd_density=480
